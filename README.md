@@ -1,6 +1,5 @@
 ## A collection of prompts I revisit for various text-guided AI models.
 
---- 
 ## GPT-4
 
 **Midjourney prompt generator for random trippy aesthetics:**
