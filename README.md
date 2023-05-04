@@ -40,14 +40,14 @@
 
 **Runwayml Gen2 Short Video pipeline:**
 
-*GPT4:*
+**GPT4:**
 ```give a shot sequence description for a short video about a whitewater rafting trip. describe each detailed shot as a list```
 
-*GPT4-browsing:*
+**GPT4-browsing:**
 ```look up midjourney v5 prompts (https://aituts.com/midjourney-v5/). then, using what you learned, write a midjourney v5 prompt for each shot in the shot list using visually descriptive language. make sure to adhere to the prompt format!```
 
-*Midjourney:*
+**Midjourney:**
 ```/imagine prompt:[above GPT4 shot description]```
 
-*Runwayml Gen2:*
+**Runwayml Gen2:**
 ```@Gen-2 [GPT4 shot description] [attach midjourney output for reference]```
