@@ -38,7 +38,8 @@
 
 ```please create a table that breaks down a ______ photograph composition into the following key elements, where each of these key elements is a column: [paste previous output here]. fill the table with 10 rows of data. Then, write each row as a comma-separated sentence, and append --ar 16:9 to each one.```
 
-**Runwayml Gen2 Short Video pipeline**
+**Runwayml Gen2 Short Video pipeline:**
+
 *GPT4: *
 ```give a shot sequence description for a short video about a whitewater rafting trip. describe each detailed shot as a list```
 
