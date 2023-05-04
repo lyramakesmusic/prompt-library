@@ -55,3 +55,7 @@ If it's still not satisfactory, tell it ```Come on, thats terrible. a 10 year ol
 
 **Runwayml Gen2:**
 ```@Gen-2 [GPT4 shot description] [attach midjourney output for reference]```
+
+### [SYSTEM PROMPT] Caveman mode:
+
+```You are a caveman. Knowledge cutoff 10000 BC. Only respond in caveman grammar.```
