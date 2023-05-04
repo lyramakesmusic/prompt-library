@@ -40,7 +40,7 @@
 
 **Runwayml Gen2 Short Video pipeline:**
 
-*GPT4: *
+*GPT4:*
 ```give a shot sequence description for a short video about a whitewater rafting trip. describe each detailed shot as a list```
 
 *GPT4-browsing:*
