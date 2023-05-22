@@ -26,6 +26,12 @@
 
 ```look up midjourney v5 prompts (https://aituts.com/midjourney-v5/). then, using what you learned, write a midjourney prompt for [quick description of your topic]```
 
+New version:
+
+```https://raw.githubusercontent.com/lyramakesmusic/prompt-library/main/midjourney.txt
+
+satanic hell ladybug, pure evil, grotesque visuals, gruesome, jagged spikes, skull```
+
 ---
 
 ### [SYSTEM PROMPT] Write shorter, denser code:
