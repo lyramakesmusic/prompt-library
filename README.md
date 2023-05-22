@@ -28,9 +28,7 @@
 
 New version:
 
-```https://raw.githubusercontent.com/lyramakesmusic/prompt-library/main/midjourney.txt
-
-satanic hell ladybug, pure evil, grotesque visuals, gruesome, jagged spikes, skull```
+```https://raw.githubusercontent.com/lyramakesmusic/prompt-library/main/midjourney.txt satanic hell ladybug, pure evil, grotesque visuals, gruesome, jagged spikes, skull```
 
 ---
 
